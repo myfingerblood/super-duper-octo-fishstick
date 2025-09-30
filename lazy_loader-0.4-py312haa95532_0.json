@@ -1,0 +1,55 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "packaging",
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lazy_loader-0.4-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/lazy_loader-0.4.dist-info/INSTALLER",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/LICENSE.md",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/METADATA",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/RECORD",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/REQUESTED",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/WHEEL",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/direct_url.json",
+    "Lib/site-packages/lazy_loader-0.4.dist-info/top_level.txt",
+    "Lib/site-packages/lazy_loader/__init__.py",
+    "Lib/site-packages/lazy_loader/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lazy_loader/tests/__init__.py",
+    "Lib/site-packages/lazy_loader/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lazy_loader/tests/__pycache__/import_np_parallel.cpython-312.pyc",
+    "Lib/site-packages/lazy_loader/tests/__pycache__/test_lazy_loader.cpython-312.pyc",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__init__.py",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__init__.pyi",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/__pycache__/some_func.cpython-312.pyc",
+    "Lib/site-packages/lazy_loader/tests/fake_pkg/some_func.py",
+    "Lib/site-packages/lazy_loader/tests/import_np_parallel.py",
+    "Lib/site-packages/lazy_loader/tests/test_lazy_loader.py",
+    ".nonadmin"
+  ],
+  "fn": "lazy_loader-0.4-py312haa95532_0.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lazy_loader-0.4-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "d461d5523623d6537a5995afd2d1ad77",
+  "name": "lazy_loader",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\lazy_loader-0.4-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::lazy_loader==0.4=py312haa95532_0[md5=d461d5523623d6537a5995afd2d1ad77]",
+  "sha256": "1708152f7fb4341ca2498addb419355fa554d4e16b9d558772eb48c3ec6d2d5a",
+  "size": 25401,
+  "subdir": "win-64",
+  "timestamp": 1718176810000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/lazy_loader-0.4-py312haa95532_0.conda",
+  "version": "0.4"
+}

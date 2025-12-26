@@ -1,0 +1,52 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-cal >=0.5.20,<0.5.21.0a0",
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-http >=0.6.25,<0.6.26.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "aws-c-sdkutils >=0.1.6,<0.1.7.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-auth-0.6.19-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-auth.dll",
+    "Library/include/aws/auth/auth.h",
+    "Library/include/aws/auth/aws_imds_client.h",
+    "Library/include/aws/auth/credentials.h",
+    "Library/include/aws/auth/exports.h",
+    "Library/include/aws/auth/signable.h",
+    "Library/include/aws/auth/signing.h",
+    "Library/include/aws/auth/signing_config.h",
+    "Library/include/aws/auth/signing_result.h",
+    "Library/lib/aws-c-auth.lib",
+    "Library/lib/aws-c-auth/cmake/aws-c-auth-config.cmake",
+    "Library/lib/aws-c-auth/cmake/shared/aws-c-auth-targets-release.cmake",
+    "Library/lib/aws-c-auth/cmake/shared/aws-c-auth-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-auth-0.6.19-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-auth-0.6.19-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "c2518e8473e98accdcae178304757014",
+  "name": "aws-c-auth",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-auth-0.6.19-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-auth==0.6.19=h2bbff1b_0[md5=c2518e8473e98accdcae178304757014]",
+  "sha256": "1600f08e022c58a7c88957848dd32491c806449f20c7ae84baa6a9c17fdcaa0c",
+  "size": 96845,
+  "subdir": "win-64",
+  "timestamp": 1706746331000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-auth-0.6.19-h2bbff1b_0.conda",
+  "version": "0.6.19"
+}

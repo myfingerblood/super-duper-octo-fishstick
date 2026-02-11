@@ -1,0 +1,47 @@
+{
+  "build": "h2bbff1b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "aws-c-common >=0.8.5,<0.8.6.0a0",
+    "aws-c-http >=0.6.25,<0.6.26.0a0",
+    "aws-c-io >=0.13.10,<0.13.11.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "extracted_package_dir": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-mqtt-0.7.13-h2bbff1b_0",
+  "files": [
+    "Library/bin/aws-c-mqtt.dll",
+    "Library/bin/elastipubsub.exe",
+    "Library/include/aws/mqtt/client.h",
+    "Library/include/aws/mqtt/exports.h",
+    "Library/include/aws/mqtt/mqtt.h",
+    "Library/include/aws/mqtt/private/mqtt_client_test_helper.h",
+    "Library/lib/aws-c-mqtt.lib",
+    "Library/lib/aws-c-mqtt/cmake/aws-c-mqtt-config.cmake",
+    "Library/lib/aws-c-mqtt/cmake/shared/aws-c-mqtt-targets-release.cmake",
+    "Library/lib/aws-c-mqtt/cmake/shared/aws-c-mqtt-targets.cmake",
+    ".nonadmin"
+  ],
+  "fn": "aws-c-mqtt-0.7.13-h2bbff1b_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-mqtt-0.7.13-h2bbff1b_0",
+    "type": 1
+  },
+  "md5": "0db2a57dc4dc25f59040928f89ad0785",
+  "name": "aws-c-mqtt",
+  "package_tarball_full_path": "E:\\SOFTWARE\\ANACONDA\\pkgs\\aws-c-mqtt-0.7.13-h2bbff1b_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "defaults/win-64::aws-c-mqtt==0.7.13=h2bbff1b_0[md5=0db2a57dc4dc25f59040928f89ad0785]",
+  "sha256": "fb05654a41c69a1953396d29eb7e96e698e5d378302eea02741ea8ecb30ad07d",
+  "size": 66410,
+  "subdir": "win-64",
+  "timestamp": 1706746839000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/aws-c-mqtt-0.7.13-h2bbff1b_0.conda",
+  "version": "0.7.13"
+}
